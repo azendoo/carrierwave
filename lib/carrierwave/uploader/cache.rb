@@ -160,7 +160,6 @@ module CarrierWave
       end
 
       def original_filename=(filename)
-        raise CarrierWave::InvalidParameter, "invalid filename" if filename.include?('+')
         @original_filename = filename
       end
 

@@ -1,0 +1,447 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+Abstract	lib/carrierwave/storage/abstract.rb	/^    class Abstract$/;"	c	class:CarrierWave.Storage
+ActiveModel	lib/carrierwave/validations/active_model.rb	/^    module ActiveModel$/;"	m	class:CarrierWave.Validations
+ActiveRecord	lib/carrierwave/orm/activerecord.rb	/^  module ActiveRecord$/;"	m	class:CarrierWave
+Base	lib/carrierwave/uploader.rb	/^    class Base$/;"	c	class:CarrierWave.Uploader
+BeIdenticalTo	lib/carrierwave/test/matchers.rb	/^      class BeIdenticalTo # :nodoc:$/;"	c	class:CarrierWave.Test.Matchers
+BeNoLargerThan	lib/carrierwave/test/matchers.rb	/^      class BeNoLargerThan # :nodoc:$/;"	c	class:CarrierWave.Test.Matchers
+BeNoTallerThan	lib/carrierwave/test/matchers.rb	/^      class BeNoTallerThan # :nodoc:$/;"	c	class:CarrierWave.Test.Matchers
+BeNoWiderThan	lib/carrierwave/test/matchers.rb	/^      class BeNoWiderThan # :nodoc:$/;"	c	class:CarrierWave.Test.Matchers
+Cache	lib/carrierwave/uploader/cache.rb	/^    module Cache$/;"	m	class:CarrierWave.Uploader
+Callbacks	lib/carrierwave/uploader/callbacks.rb	/^    module Callbacks$/;"	m	class:CarrierWave.Uploader
+CarrierWave	lib/carrierwave.rb	/^  module CarrierWave$/;"	m
+CarrierWave	lib/carrierwave.rb	/^module CarrierWave$/;"	m
+CarrierWave	lib/carrierwave/compatibility/paperclip.rb	/^module CarrierWave$/;"	m
+CarrierWave	lib/carrierwave/mount.rb	/^module CarrierWave$/;"	m
+CarrierWave	lib/carrierwave/orm/activerecord.rb	/^module CarrierWave$/;"	m
+CarrierWave	lib/carrierwave/processing/mime_types.rb	/^module CarrierWave$/;"	m
+CarrierWave	lib/carrierwave/processing/mini_magick.rb	/^module CarrierWave$/;"	m
+CarrierWave	lib/carrierwave/processing/rmagick.rb	/^module CarrierWave$/;"	m
+CarrierWave	lib/carrierwave/sanitized_file.rb	/^module CarrierWave$/;"	m
+CarrierWave	lib/carrierwave/storage/abstract.rb	/^module CarrierWave$/;"	m
+CarrierWave	lib/carrierwave/storage/cloud_files.rb	/^module CarrierWave$/;"	m
+CarrierWave	lib/carrierwave/storage/file.rb	/^module CarrierWave$/;"	m
+CarrierWave	lib/carrierwave/storage/fog.rb	/^module CarrierWave$/;"	m
+CarrierWave	lib/carrierwave/storage/s3.rb	/^module CarrierWave$/;"	m
+CarrierWave	lib/carrierwave/test/matchers.rb	/^module CarrierWave$/;"	m
+CarrierWave	lib/carrierwave/uploader.rb	/^module CarrierWave$/;"	m
+CarrierWave	lib/carrierwave/uploader/cache.rb	/^module CarrierWave$/;"	m
+CarrierWave	lib/carrierwave/uploader/callbacks.rb	/^module CarrierWave$/;"	m
+CarrierWave	lib/carrierwave/uploader/configuration.rb	/^module CarrierWave$/;"	m
+CarrierWave	lib/carrierwave/uploader/default_url.rb	/^module CarrierWave$/;"	m
+CarrierWave	lib/carrierwave/uploader/download.rb	/^module CarrierWave$/;"	m
+CarrierWave	lib/carrierwave/uploader/extension_whitelist.rb	/^module CarrierWave$/;"	m
+CarrierWave	lib/carrierwave/uploader/mountable.rb	/^module CarrierWave$/;"	m
+CarrierWave	lib/carrierwave/uploader/processing.rb	/^module CarrierWave$/;"	m
+CarrierWave	lib/carrierwave/uploader/proxy.rb	/^module CarrierWave$/;"	m
+CarrierWave	lib/carrierwave/uploader/remove.rb	/^module CarrierWave$/;"	m
+CarrierWave	lib/carrierwave/uploader/store.rb	/^module CarrierWave$/;"	m
+CarrierWave	lib/carrierwave/uploader/url.rb	/^module CarrierWave$/;"	m
+CarrierWave	lib/carrierwave/uploader/versions.rb	/^module CarrierWave$/;"	m
+CarrierWave	lib/carrierwave/validations/active_model.rb	/^module CarrierWave$/;"	m
+CarrierWave	lib/carrierwave/version.rb	/^module CarrierWave$/;"	m
+CarrierWave	spec/spec_helper.rb	/^module CarrierWave$/;"	m
+ClassMethods	lib/carrierwave/processing/mime_types.rb	/^    module ClassMethods$/;"	m	class:CarrierWave.MimeTypes
+ClassMethods	lib/carrierwave/processing/mini_magick.rb	/^    module ClassMethods$/;"	m	class:CarrierWave.MiniMagick
+ClassMethods	lib/carrierwave/processing/rmagick.rb	/^    module ClassMethods$/;"	m	class:CarrierWave.RMagick
+ClassMethods	lib/carrierwave/uploader/cache.rb	/^      module ClassMethods$/;"	m	class:CarrierWave.Uploader.Cache
+ClassMethods	lib/carrierwave/uploader/callbacks.rb	/^      module ClassMethods$/;"	m	class:CarrierWave.Uploader.Callbacks
+ClassMethods	lib/carrierwave/uploader/configuration.rb	/^      module ClassMethods$/;"	m	class:CarrierWave.Uploader.Configuration
+ClassMethods	lib/carrierwave/uploader/processing.rb	/^      module ClassMethods$/;"	m	class:CarrierWave.Uploader.Processing
+ClassMethods	lib/carrierwave/uploader/versions.rb	/^      module ClassMethods$/;"	m	class:CarrierWave.Uploader.Versions
+CloudFiles	lib/carrierwave/storage/cloud_files.rb	/^    class CloudFiles < Abstract$/;"	c	class:CarrierWave.Storage
+CloudfilesSpecUploader	spec/storage/cloudfiles_spec.rb	/^  class CloudfilesSpecUploader < CarrierWave::Uploader::Base$/;"	c
+Compatibility	lib/carrierwave.rb	/^  module Compatibility$/;"	m
+Compatibility	lib/carrierwave/compatibility/paperclip.rb	/^  module Compatibility$/;"	m	class:CarrierWave
+Configuration	lib/carrierwave/uploader/configuration.rb	/^    module Configuration$/;"	m	class:CarrierWave.Uploader
+DefaultUrl	lib/carrierwave/uploader/default_url.rb	/^    module DefaultUrl$/;"	m	class:CarrierWave.Uploader
+Download	lib/carrierwave/uploader/download.rb	/^    module Download$/;"	m	class:CarrierWave.Uploader
+DownloadError	lib/carrierwave.rb	/^  class DownloadError < UploadError; end$/;"	c
+Event	spec/orm/activerecord_spec.rb	/^class Event < ActiveRecord::Base; end # setup a basic AR class for testing$/;"	c
+Extension	lib/carrierwave/mount.rb	/^    module Extension$/;"	m
+ExtensionWhitelist	lib/carrierwave/uploader/extension_whitelist.rb	/^    module ExtensionWhitelist$/;"	m	class:CarrierWave.Uploader
+File	lib/carrierwave/storage/cloud_files.rb	/^      class File$/;"	c	class:CarrierWave.Storage.CloudFiles
+File	lib/carrierwave/storage/file.rb	/^    class File < Abstract$/;"	c	class:CarrierWave.Storage
+File	lib/carrierwave/storage/fog.rb	/^      class File$/;"	c	class:CarrierWave.Storage.Fog
+File	lib/carrierwave/storage/s3.rb	/^      class File$/;"	c	class:CarrierWave.Storage.S3
+Fog	lib/carrierwave/storage/fog.rb	/^    class Fog < Abstract$/;"	c	class:CarrierWave.Storage
+FogSpec	spec/storage/fog_helper.rb	/^class FogSpec#{fog_credentials[:provider]}Uploader < CarrierWave::Uploader::Base$/;"	c	class:fog_tests
+FormNotMultipart	lib/carrierwave/uploader/cache.rb	/^  class FormNotMultipart < UploadError$/;"	c	class:CarrierWave
+HaveDimensions	lib/carrierwave/test/matchers.rb	/^      class HaveDimensions # :nodoc:$/;"	c	class:CarrierWave.Test.Matchers
+HavePermissions	lib/carrierwave/test/matchers.rb	/^      class HavePermissions # :nodoc:$/;"	c	class:CarrierWave.Test.Matchers
+HelperMethods	lib/carrierwave/validations/active_model.rb	/^      module HelperMethods$/;"	m	class:CarrierWave.Validations.ActiveModel
+I18nHelpers	spec/spec_helper.rb	/^    module I18nHelpers$/;"	m	class:CarrierWave.Test.MockFiles.stub_tempfile
+ImageLoader	lib/carrierwave/test/matchers.rb	/^      class ImageLoader # :nodoc:$/;"	c	class:CarrierWave.Test.Matchers
+IntegrityError	lib/carrierwave.rb	/^  class IntegrityError < UploadError; end$/;"	c
+IntegrityValidator	lib/carrierwave/validations/active_model.rb	/^      class IntegrityValidator < ::ActiveModel::EachValidator$/;"	c	class:CarrierWave.Validations.ActiveModel
+InvalidParameter	lib/carrierwave.rb	/^  class InvalidParameter < UploadError; end$/;"	c
+MagickWrapper	lib/carrierwave/test/matchers.rb	/^      class MagickWrapper # :nodoc:$/;"	c	class:CarrierWave.Test.Matchers
+Matchers	lib/carrierwave/test/matchers.rb	/^    module Matchers$/;"	m	class:CarrierWave.Test
+MimeTypes	lib/carrierwave/processing/mime_types.rb	/^  module MimeTypes$/;"	m	class:CarrierWave
+MiniMagick	lib/carrierwave/processing/mini_magick.rb	/^  module MiniMagick$/;"	m	class:CarrierWave
+MiniMagickWrapper	lib/carrierwave/test/matchers.rb	/^      class MiniMagickWrapper # :nodoc:$/;"	c	class:CarrierWave.Test.Matchers
+MockFiles	spec/spec_helper.rb	/^    module MockFiles$/;"	m	class:CarrierWave.Test
+MockStorage	spec/spec_helper.rb	/^    module MockStorage$/;"	m	class:CarrierWave.Test
+Mount	lib/carrierwave/mount.rb	/^  module Mount$/;"	m	class:CarrierWave
+Mountable	lib/carrierwave/uploader/mountable.rb	/^    module Mountable$/;"	m	class:CarrierWave.Uploader
+Mounter	lib/carrierwave/mount.rb	/^    class Mounter #:nodoc:$/;"	c
+Paperclip	lib/carrierwave/compatibility/paperclip.rb	/^    module Paperclip$/;"	m	class:CarrierWave.Compatibility
+Processing	lib/carrierwave/uploader/processing.rb	/^    module Processing$/;"	m	class:CarrierWave.Uploader
+ProcessingError	lib/carrierwave.rb	/^  class ProcessingError < UploadError; end$/;"	c
+ProcessingValidator	lib/carrierwave/validations/active_model.rb	/^      class ProcessingValidator < ::ActiveModel::EachValidator$/;"	c	class:CarrierWave.Validations.ActiveModel
+Proxy	lib/carrierwave/uploader/proxy.rb	/^    module Proxy$/;"	m	class:CarrierWave.Uploader
+RMagick	lib/carrierwave/processing/rmagick.rb	/^  module RMagick$/;"	m	class:CarrierWave
+Rails	spec/compatibility/paperclip_spec.rb	/^module Rails; end unless defined?(Rails)$/;"	m
+Railtie	lib/carrierwave.rb	/^    class Railtie < Rails::Railtie$/;"	c	class:CarrierWave
+RemoteFile	lib/carrierwave/uploader/download.rb	/^      class RemoteFile$/;"	c	class:CarrierWave.Uploader.Download
+Remove	lib/carrierwave/uploader/remove.rb	/^    module Remove$/;"	m	class:CarrierWave.Uploader
+S3	lib/carrierwave/storage/s3.rb	/^    class S3 < Abstract$/;"	c	class:CarrierWave.Storage
+S3SpecUploader	spec/storage/s3_spec.rb	/^class S3SpecUploader < CarrierWave::Uploader::Base$/;"	c
+SanitizedFile	lib/carrierwave/sanitized_file.rb	/^  class SanitizedFile$/;"	c	class:CarrierWave
+Storage	lib/carrierwave.rb	/^  module Storage$/;"	m
+Storage	lib/carrierwave/storage/abstract.rb	/^  module Storage$/;"	m	class:CarrierWave
+Storage	lib/carrierwave/storage/cloud_files.rb	/^  module Storage$/;"	m	class:CarrierWave
+Storage	lib/carrierwave/storage/file.rb	/^  module Storage$/;"	m	class:CarrierWave
+Storage	lib/carrierwave/storage/fog.rb	/^  module Storage$/;"	m	class:CarrierWave
+Storage	lib/carrierwave/storage/s3.rb	/^  module Storage$/;"	m	class:CarrierWave
+StorageX	spec/uploader/url_spec.rb	/^      module StorageX; class File; def url; true; end; end; end$/;"	m
+Store	lib/carrierwave/uploader/store.rb	/^    module Store$/;"	m	class:CarrierWave.Uploader
+Test	lib/carrierwave.rb	/^  module Test$/;"	m
+Test	lib/carrierwave/test/matchers.rb	/^  module Test$/;"	m	class:CarrierWave
+Test	spec/spec_helper.rb	/^  module Test$/;"	m	class:CarrierWave
+TestMigration	features/support/activerecord.rb	/^class TestMigration < ActiveRecord::Migration$/;"	c
+TestMigration	spec/orm/activerecord_spec.rb	/^class TestMigration < ActiveRecord::Migration$/;"	c
+UploadError	lib/carrierwave.rb	/^  class UploadError < StandardError; end$/;"	c
+Uploader	lib/carrierwave.rb	/^  module Uploader$/;"	m
+Uploader	lib/carrierwave/uploader.rb	/^  module Uploader$/;"	m	class:CarrierWave
+Uploader	lib/carrierwave/uploader/cache.rb	/^  module Uploader$/;"	m	class:CarrierWave
+Uploader	lib/carrierwave/uploader/callbacks.rb	/^  module Uploader$/;"	m	class:CarrierWave
+Uploader	lib/carrierwave/uploader/configuration.rb	/^  module Uploader$/;"	m	class:CarrierWave
+Uploader	lib/carrierwave/uploader/default_url.rb	/^  module Uploader$/;"	m	class:CarrierWave
+Uploader	lib/carrierwave/uploader/download.rb	/^  module Uploader$/;"	m	class:CarrierWave
+Uploader	lib/carrierwave/uploader/extension_whitelist.rb	/^  module Uploader$/;"	m	class:CarrierWave
+Uploader	lib/carrierwave/uploader/mountable.rb	/^  module Uploader$/;"	m	class:CarrierWave
+Uploader	lib/carrierwave/uploader/processing.rb	/^  module Uploader$/;"	m	class:CarrierWave
+Uploader	lib/carrierwave/uploader/proxy.rb	/^  module Uploader$/;"	m	class:CarrierWave
+Uploader	lib/carrierwave/uploader/remove.rb	/^  module Uploader$/;"	m	class:CarrierWave
+Uploader	lib/carrierwave/uploader/store.rb	/^  module Uploader$/;"	m	class:CarrierWave
+Uploader	lib/carrierwave/uploader/url.rb	/^  module Uploader$/;"	m	class:CarrierWave
+Uploader	lib/carrierwave/uploader/versions.rb	/^  module Uploader$/;"	m	class:CarrierWave
+UploaderGenerator	lib/generators/uploader_generator.rb	/^class UploaderGenerator < Rails::Generators::NamedBase$/;"	c
+Url	lib/carrierwave/uploader/url.rb	/^    module Url$/;"	m	class:CarrierWave.Uploader
+Validations	lib/carrierwave/validations/active_model.rb	/^  module Validations$/;"	m	class:CarrierWave
+Versions	lib/carrierwave/uploader/versions.rb	/^    module Versions$/;"	m	class:CarrierWave.Uploader
+_mounter	lib/carrierwave/mount.rb	/^      def _mounter(column)$/;"	f	class:Extension
+access_policy	lib/carrierwave/storage/s3.rb	/^        def access_policy$/;"	f	class:CarrierWave.Storage.S3.File
+active_versions	lib/carrierwave/uploader/versions.rb	/^      def active_versions$/;"	f	class:CarrierWave.Uploader
+add_config	lib/carrierwave/uploader/configuration.rb	/^        def add_config(name)$/;"	f	class:CarrierWave.Uploader.Configuration.ClassMethods
+after	lib/carrierwave/uploader/callbacks.rb	/^        def after(kind, callback)$/;"	f	class:CarrierWave.Uploader.Callbacks.ClassMethods
+as_json	lib/carrierwave/uploader/url.rb	/^      def as_json(options = nil)$/;"	f	class:CarrierWave.Uploader.Url
+assign_parent_cache_id	lib/carrierwave/uploader/versions.rb	/^      def assign_parent_cache_id(file)$/;"	f	class:CarrierWave.Uploader
+attributes	lib/carrierwave/storage/fog.rb	/^        def attributes$/;"	f	class:CarrierWave.Storage.Fog.File
+authenticated_url	lib/carrierwave/storage/fog.rb	/^        def authenticated_url(options = {})$/;"	f	class:CarrierWave.Storage.Fog.File
+authenticated_url	lib/carrierwave/storage/s3.rb	/^        def authenticated_url(options = {})$/;"	f	class:CarrierWave.Storage.S3.File
+authentication_timeout	lib/carrierwave/storage/s3.rb	/^        def authentication_timeout$/;"	f	class:CarrierWave.Storage.S3.File
+basename	lib/carrierwave/sanitized_file.rb	/^    def basename$/;"	f	class:CarrierWave
+be_identical_to	lib/carrierwave/test/matchers.rb	/^      def be_identical_to(expected)$/;"	f	class:CarrierWave.Test.Matchers
+be_no_larger_than	lib/carrierwave/test/matchers.rb	/^      def be_no_larger_than(width, height)$/;"	f	class:CarrierWave.Test.Matchers
+be_no_taller_than	lib/carrierwave/test/matchers.rb	/^      def be_no_taller_than(height)$/;"	f	class:CarrierWave.Test.Matchers
+be_no_wider_than	lib/carrierwave/test/matchers.rb	/^      def be_no_wider_than(width)$/;"	f	class:CarrierWave.Test.Matchers
+before	lib/carrierwave/uploader/callbacks.rb	/^        def before(kind, callback)$/;"	f	class:CarrierWave.Uploader.Callbacks.ClassMethods
+blank?	lib/carrierwave/mount.rb	/^      def blank?$/;"	f	class:Mounter
+blank?	lib/carrierwave/uploader/proxy.rb	/^      def blank?$/;"	f	class:CarrierWave.Uploader.Proxy
+bucket	lib/carrierwave/storage/s3.rb	/^        def bucket$/;"	f	class:CarrierWave.Storage.S3.File
+cache	lib/carrierwave/mount.rb	/^      def cache(new_file)$/;"	f	class:Mounter
+cache!	lib/carrierwave/uploader/cache.rb	/^      def cache!(new_file)$/;"	f	class:CarrierWave.Uploader.Cache
+cache_id=	lib/carrierwave/uploader/cache.rb	/^      def cache_id=(cache_id)$/;"	f	class:CarrierWave.Uploader.Cache
+cache_name	lib/carrierwave/mount.rb	/^      def cache_name$/;"	f	class:Mounter
+cache_name	lib/carrierwave/uploader/cache.rb	/^      def cache_name$/;"	f	class:CarrierWave.Uploader.Cache
+cache_name=	lib/carrierwave/mount.rb	/^      def cache_name=(cache_name)$/;"	f	class:Mounter
+cache_path	lib/carrierwave/uploader/cache.rb	/^      def cache_path$/;"	f	class:CarrierWave.Uploader.Cache
+cache_stored_file!	lib/carrierwave/uploader/cache.rb	/^      def cache_stored_file!$/;"	f	class:CarrierWave.Uploader.Cache
+cache_versions!	lib/carrierwave/uploader/versions.rb	/^      def cache_versions!(new_file)$/;"	f	class:CarrierWave.Uploader
+cached?	lib/carrierwave/uploader/cache.rb	/^      def cached?$/;"	f	class:CarrierWave.Uploader.Cache
+cf_connection	lib/carrierwave/storage/cloud_files.rb	/^          def cf_connection$/;"	f	class:CarrierWave.Storage.CloudFiles.File
+cf_container	lib/carrierwave/storage/cloud_files.rb	/^          def cf_container$/;"	f	class:CarrierWave.Storage.CloudFiles.File
+change_locale_and_store_translations	spec/spec_helper.rb	/^      def change_locale_and_store_translations(locale, translations, &block)$/;"	f	class:CarrierWave.Test.MockFiles.stub_tempfile.I18nHelpers
+check_whitelist!	lib/carrierwave/uploader/extension_whitelist.rb	/^      def check_whitelist!(new_file)$/;"	f	class:CarrierWave.Uploader.ExtensionWhitelist
+chmod!	lib/carrierwave/sanitized_file.rb	/^    def chmod!(path, permissions)$/;"	f	class:CarrierWave
+clean_cached_files!	lib/carrierwave.rb	/^    def clean_cached_files!$/;"	f	class:CarrierWave
+clean_cached_files!	lib/carrierwave/uploader/cache.rb	/^        def clean_cached_files!(seconds=60*60*24)$/;"	f	class:CarrierWave.Uploader.Cache.ClassMethods
+cnamed?	lib/carrierwave/storage/s3.rb	/^        def cnamed?$/;"	f	class:CarrierWave.Storage.S3.File
+configure	lib/carrierwave.rb	/^    def configure(&block)$/;"	f	class:CarrierWave
+configure	lib/carrierwave/uploader/configuration.rb	/^        def configure$/;"	f	class:CarrierWave
+connection	lib/carrierwave/storage/cloud_files.rb	/^          def connection$/;"	f	class:CarrierWave.Storage.CloudFiles.File
+connection	lib/carrierwave/storage/fog.rb	/^        def connection$/;"	f	class:CarrierWave.Storage.Fog.File
+connection	lib/carrierwave/storage/fog.rb	/^      def connection$/;"	f	class:CarrierWave.Storage.Fog
+connection	lib/carrierwave/storage/s3.rb	/^        def connection$/;"	f	class:CarrierWave.Storage.S3.File
+connection	lib/carrierwave/storage/s3.rb	/^      def connection$/;"	f	class:CarrierWave.Storage.S3
+container	lib/carrierwave/storage/cloud_files.rb	/^          def container$/;"	f	class:CarrierWave.Storage.CloudFiles.File
+content_type	lib/carrierwave/sanitized_file.rb	/^    def content_type$/;"	f	class:CarrierWave
+content_type	lib/carrierwave/storage/cloud_files.rb	/^        def content_type$/;"	f	class:CarrierWave.Storage.CloudFiles.File
+content_type	lib/carrierwave/storage/fog.rb	/^        def content_type$/;"	f	class:CarrierWave.Storage.Fog.File
+content_type	lib/carrierwave/storage/s3.rb	/^        def content_type$/;"	f	class:CarrierWave.Storage.S3.File
+content_type	spec/spec_helper.rb	/^        def t.content_type; '#{mime_type}'; end$/;"	F	class:CarrierWave.Test.MockFiles.stub_tempfile.original_filename
+content_type=	lib/carrierwave/sanitized_file.rb	/^    def content_type=(type)$/;"	f	class:CarrierWave
+content_type=	lib/carrierwave/storage/cloud_files.rb	/^        def content_type=(new_content_type)$/;"	f	class:CarrierWave.Storage.CloudFiles.File
+content_type=	lib/carrierwave/storage/fog.rb	/^        def content_type=(new_content_type)$/;"	f	class:CarrierWave.Storage.Fog.File
+content_type=	lib/carrierwave/storage/s3.rb	/^        def content_type=(type)$/;"	f	class:CarrierWave.Storage.S3.File
+convert	lib/carrierwave/processing/mini_magick.rb	/^      def convert(format)$/;"	f	class:CarrierWave.MiniMagick.ClassMethods
+convert	lib/carrierwave/processing/mini_magick.rb	/^    def convert(format)$/;"	f	class:CarrierWave.MiniMagick
+convert	lib/carrierwave/processing/rmagick.rb	/^      def convert(format)$/;"	f	class:CarrierWave.RMagick.ClassMethods
+convert	lib/carrierwave/processing/rmagick.rb	/^    def convert(format)$/;"	f	class:CarrierWave.RMagick
+copy_to	lib/carrierwave/sanitized_file.rb	/^    def copy_to(new_path, permissions=nil)$/;"	f	class:CarrierWave
+create_uploader_file	lib/generators/uploader_generator.rb	/^  def create_uploader_file$/;"	f	class:UploaderGenerator
+current_path	lib/carrierwave/uploader/proxy.rb	/^      def current_path$/;"	f	class:CarrierWave.Uploader.Proxy
+default_url	lib/carrierwave/uploader/default_url.rb	/^      def default_url; end$/;"	f	class:CarrierWave.Uploader.DefaultUrl
+default_url	spec/uploader/default_url_spec.rb	/^        def default_url$/;"	f
+delete	lib/carrierwave/sanitized_file.rb	/^    def delete$/;"	f	class:CarrierWave
+delete	lib/carrierwave/storage/cloud_files.rb	/^        def delete$/;"	f	class:CarrierWave.Storage.CloudFiles.File
+delete	lib/carrierwave/storage/fog.rb	/^        def delete$/;"	f	class:CarrierWave.Storage.Fog.File
+delete	lib/carrierwave/storage/s3.rb	/^        def delete$/;"	f	class:CarrierWave.Storage.S3.File
+delete_cache_id	lib/carrierwave/uploader/store.rb	/^      def delete_cache_id$/;"	f	class:CarrierWave.Uploader.Store
+description	lib/carrierwave/test/matchers.rb	/^        def description$/;"	f	class:CarrierWave.Test.Matchers.BeIdenticalTo
+description	lib/carrierwave/test/matchers.rb	/^        def description$/;"	f	class:CarrierWave.Test.Matchers.BeNoLargerThan
+description	lib/carrierwave/test/matchers.rb	/^        def description$/;"	f	class:CarrierWave.Test.Matchers.BeNoTallerThan
+description	lib/carrierwave/test/matchers.rb	/^        def description$/;"	f	class:CarrierWave.Test.Matchers.BeNoWiderThan
+description	lib/carrierwave/test/matchers.rb	/^        def description$/;"	f	class:CarrierWave.Test.Matchers.HaveDimensions
+description	lib/carrierwave/test/matchers.rb	/^        def description$/;"	f	class:CarrierWave.Test.Matchers.HavePermissions
+destroy_image	lib/carrierwave/processing/rmagick.rb	/^    def destroy_image(image)$/;"	f	class:CarrierWave
+directory	lib/carrierwave/storage/fog.rb	/^        def directory$/;"	f	class:CarrierWave.Storage.Fog.File
+down	features/support/activerecord.rb	/^  def self.down$/;"	F	class:TestMigration
+down	spec/orm/activerecord_spec.rb	/^  def self.down$/;"	F	class:TestMigration
+download!	lib/carrierwave/uploader/download.rb	/^      def download!(uri)$/;"	f	class:CarrierWave.Uploader.Download
+empty?	lib/carrierwave/sanitized_file.rb	/^    def empty?$/;"	f	class:CarrierWave
+enable_processing	lib/carrierwave/uploader/versions.rb	/^              def self.enable_processing(value=nil)$/;"	F	class:CarrierWave.Uploader.Versions.ClassMethods.version
+exists?	lib/carrierwave/sanitized_file.rb	/^    def exists?$/;"	f	class:CarrierWave
+extension	lib/carrierwave/sanitized_file.rb	/^    def extension$/;"	f	class:CarrierWave
+extension_white_list	lib/carrierwave/uploader/extension_whitelist.rb	/^      def extension_white_list; end$/;"	f	class:CarrierWave.Uploader.ExtensionWhitelist
+extension_white_list	spec/mount_spec.rb	/^          def extension_white_list$/;"	f
+extension_white_list	spec/mount_spec.rb	/^        def extension_white_list$/;"	f
+extension_white_list	spec/orm/activerecord_spec.rb	/^            def extension_white_list$/;"	f
+extension_white_list	spec/uploader/download_spec.rb	/^          def extension_white_list$/;"	f
+failure_message	lib/carrierwave/test/matchers.rb	/^        def failure_message$/;"	f	class:CarrierWave.Test.Matchers.BeIdenticalTo
+failure_message	lib/carrierwave/test/matchers.rb	/^        def failure_message$/;"	f	class:CarrierWave.Test.Matchers.BeNoLargerThan
+failure_message	lib/carrierwave/test/matchers.rb	/^        def failure_message$/;"	f	class:CarrierWave.Test.Matchers.BeNoTallerThan
+failure_message	lib/carrierwave/test/matchers.rb	/^        def failure_message$/;"	f	class:CarrierWave.Test.Matchers.BeNoWiderThan
+failure_message	lib/carrierwave/test/matchers.rb	/^        def failure_message$/;"	f	class:CarrierWave.Test.Matchers.HaveDimensions
+failure_message	lib/carrierwave/test/matchers.rb	/^        def failure_message$/;"	f	class:CarrierWave.Test.Matchers.HavePermissions
+file	lib/carrierwave/storage/fog.rb	/^        def file$/;"	f	class:CarrierWave.Storage.Fog.File
+file	lib/carrierwave/uploader/download.rb	/^        def file$/;"	f	class:CarrierWave.Uploader.Download.RemoteFile
+file=	lib/carrierwave/sanitized_file.rb	/^    def file=(file)$/;"	f	class:CarrierWave
+file_path	features/support/env.rb	/^def file_path( *paths )$/;"	f
+file_path	spec/spec_helper.rb	/^def file_path( *paths )$/;"	f
+filename	features/step_definitions/general_steps.rb	/^    def filename$/;"	f
+filename	lib/carrierwave/sanitized_file.rb	/^    def filename$/;"	f	class:CarrierWave
+filename	lib/carrierwave/uploader/store.rb	/^      def filename$/;"	f	class:CarrierWave.Uploader.Store
+filename	spec/orm/activerecord_spec.rb	/^            def filename$/;"	f
+filename	spec/orm/activerecord_spec.rb	/^          def filename$/;"	f
+filename	spec/uploader/cache_spec.rb	/^        def filename$/;"	f
+filename	spec/uploader/store_spec.rb	/^        def filename$/;"	f
+filename	spec/uploader/store_spec.rb	/^        def filename; "foo.jpg"; end$/;"	f
+find_previous_model_for_	lib/carrierwave/mount.rb	/^        def find_previous_model_for_#{column}$/;"	f
+fish	spec/mount_spec.rb	/^          def fish$/;"	f
+fog_tests	spec/storage/fog_helper.rb	/^def fog_tests(fog_credentials)$/;"	f
+full_filename	lib/carrierwave/uploader/store.rb	/^      def full_filename(for_file)$/;"	f	class:CarrierWave.Uploader.Store
+full_filename	lib/carrierwave/uploader/versions.rb	/^      def full_filename(for_file)$/;"	f	class:CarrierWave.Uploader
+full_original_filename	lib/carrierwave/uploader/versions.rb	/^      def full_original_filename$/;"	f	class:CarrierWave.Uploader
+generate_cache_id	lib/carrierwave/uploader/cache.rb	/^  def self.generate_cache_id$/;"	F	class:CarrierWave
+have_dimensions	lib/carrierwave/test/matchers.rb	/^      def have_dimensions(width, height)$/;"	f	class:CarrierWave.Test.Matchers
+have_permissions	lib/carrierwave/test/matchers.rb	/^      def have_permissions(expected)$/;"	f	class:CarrierWave.Test.Matchers
+headers	lib/carrierwave/storage/cloud_files.rb	/^          def headers$/;"	f	class:CarrierWave.Storage.CloudFiles.File
+headers	lib/carrierwave/storage/fog.rb	/^        def headers$/;"	f	class:CarrierWave.Storage.Fog.File
+headers	lib/carrierwave/storage/s3.rb	/^        def headers$/;"	f	class:CarrierWave.Storage.S3.File
+height	lib/carrierwave/test/matchers.rb	/^        def height$/;"	f	class:CarrierWave.Test.Matchers.MagickWrapper
+height	lib/carrierwave/test/matchers.rb	/^        def height$/;"	f	class:CarrierWave.Test.Matchers.MiniMagickWrapper
+http?	lib/carrierwave/uploader/download.rb	/^        def http?$/;"	f	class:CarrierWave.Uploader.Download.RemoteFile
+identifier	lib/carrierwave/mount.rb	/^      def identifier$/;"	f	class:Mounter
+identifier	lib/carrierwave/storage/abstract.rb	/^      def identifier$/;"	f	class:CarrierWave.Storage.Abstract
+identifier	lib/carrierwave/uploader/proxy.rb	/^      def identifier$/;"	f	class:CarrierWave.Uploader.Proxy
+image=	spec/mount_spec.rb	/^        def image=(val)$/;"	f
+image_uploader	spec/mount_spec.rb	/^        def image_uploader$/;"	f
+initialize	lib/carrierwave/mount.rb	/^      def initialize(record, column, options={})$/;"	f	class:Mounter
+initialize	lib/carrierwave/sanitized_file.rb	/^    def initialize(file)$/;"	f	class:CarrierWave
+initialize	lib/carrierwave/storage/abstract.rb	/^      def initialize(uploader)$/;"	f	class:CarrierWave.Storage.Abstract
+initialize	lib/carrierwave/storage/cloud_files.rb	/^        def initialize(uploader, base, path)$/;"	f	class:CarrierWave.Storage.CloudFiles.File
+initialize	lib/carrierwave/storage/fog.rb	/^        def initialize(uploader, base, path)$/;"	f	class:CarrierWave.Storage.Fog.File
+initialize	lib/carrierwave/storage/s3.rb	/^        def initialize(uploader, base, path)$/;"	f	class:CarrierWave.Storage.S3.File
+initialize	lib/carrierwave/test/matchers.rb	/^        def initialize(expected)$/;"	f	class:CarrierWave.Test.Matchers.BeIdenticalTo
+initialize	lib/carrierwave/test/matchers.rb	/^        def initialize(expected)$/;"	f	class:CarrierWave.Test.Matchers.HavePermissions
+initialize	lib/carrierwave/test/matchers.rb	/^        def initialize(filename)$/;"	f	class:CarrierWave.Test.Matchers.MagickWrapper
+initialize	lib/carrierwave/test/matchers.rb	/^        def initialize(filename)$/;"	f	class:CarrierWave.Test.Matchers.MiniMagickWrapper
+initialize	lib/carrierwave/test/matchers.rb	/^        def initialize(height)$/;"	f	class:CarrierWave.Test.Matchers.BeNoTallerThan
+initialize	lib/carrierwave/test/matchers.rb	/^        def initialize(width)$/;"	f	class:CarrierWave.Test.Matchers.BeNoWiderThan
+initialize	lib/carrierwave/test/matchers.rb	/^        def initialize(width, height)$/;"	f	class:CarrierWave.Test.Matchers.BeNoLargerThan
+initialize	lib/carrierwave/test/matchers.rb	/^        def initialize(width, height)$/;"	f	class:CarrierWave.Test.Matchers.HaveDimensions
+initialize	lib/carrierwave/uploader/download.rb	/^        def initialize(uri)$/;"	f	class:CarrierWave.Uploader.Download.RemoteFile
+initialize	lib/carrierwave/uploader/mountable.rb	/^      def initialize(model=nil, mounted_as=nil)$/;"	f	class:CarrierWave.Uploader.Mountable
+interpolate_paperclip_path	lib/carrierwave/compatibility/paperclip.rb	/^      def interpolate_paperclip_path(path, filename)$/;"	f	class:CarrierWave.Compatibility.Paperclip
+is_path?	lib/carrierwave/sanitized_file.rb	/^    def is_path?$/;"	f	class:CarrierWave
+length	lib/carrierwave/uploader/proxy.rb	/^      def length$/;"	f	class:CarrierWave.Uploader.Proxy
+llama	spec/uploader/versions_spec.rb	/^        def self.llama$/;"	F
+load_image	lib/carrierwave/test/matchers.rb	/^        def self.load_image(filename)$/;"	F	class:CarrierWave.Test.Matchers.ImageLoader
+local_path	spec/spec_helper.rb	/^        def t.local_path; path; end$/;"	F	class:CarrierWave.Test.MockFiles.stub_tempfile.original_filename.content_type
+manipulate!	lib/carrierwave/processing/mini_magick.rb	/^    def manipulate!$/;"	f	class:CarrierWave.MiniMagick
+manipulate!	lib/carrierwave/processing/rmagick.rb	/^    def manipulate!(options={})$/;"	f	class:CarrierWave.RMagick
+mappings	lib/carrierwave/compatibility/paperclip.rb	/^      def mappings$/;"	f	class:CarrierWave.Compatibility.Paperclip
+matches?	lib/carrierwave/test/matchers.rb	/^        def matches?(actual)$/;"	f	class:CarrierWave.Test.Matchers.BeIdenticalTo
+matches?	lib/carrierwave/test/matchers.rb	/^        def matches?(actual)$/;"	f	class:CarrierWave.Test.Matchers.BeNoLargerThan
+matches?	lib/carrierwave/test/matchers.rb	/^        def matches?(actual)$/;"	f	class:CarrierWave.Test.Matchers.BeNoTallerThan
+matches?	lib/carrierwave/test/matchers.rb	/^        def matches?(actual)$/;"	f	class:CarrierWave.Test.Matchers.BeNoWiderThan
+matches?	lib/carrierwave/test/matchers.rb	/^        def matches?(actual)$/;"	f	class:CarrierWave.Test.Matchers.HaveDimensions
+matches?	lib/carrierwave/test/matchers.rb	/^        def matches?(actual)$/;"	f	class:CarrierWave.Test.Matchers.HavePermissions
+message	lib/carrierwave/uploader/cache.rb	/^    def message$/;"	f	class:CarrierWave.FormNotMultipart
+method_missing	lib/carrierwave/uploader/download.rb	/^        def method_missing(*args, &block)$/;"	f	class:CarrierWave.Uploader.Download.RemoteFile
+mkdir!	lib/carrierwave/sanitized_file.rb	/^    def mkdir!(path)$/;"	f	class:CarrierWave
+mock_storage	spec/spec_helper.rb	/^      def mock_storage(kind)$/;"	f	class:CarrierWave.Test.MockStorage
+monkey	spec/mount_spec.rb	/^          def monkey$/;"	f
+monkey	spec/mount_spec.rb	/^        def monkey$/;"	f
+monkey	spec/orm/activerecord_spec.rb	/^            def monkey$/;"	f
+monkey	spec/uploader/versions_spec.rb	/^        def self.monkey$/;"	F
+mount_uploader	lib/carrierwave/mount.rb	/^    def mount_uploader(column, uploader=nil, options={}, &block)$/;"	f	class:CarrierWave.Mount
+mount_uploader	lib/carrierwave/orm/activerecord.rb	/^    def mount_uploader(column, uploader=nil, options={}, &block)$/;"	f	class:CarrierWave.ActiveRecord
+move_to	lib/carrierwave/sanitized_file.rb	/^    def move_to(new_path, permissions=nil)$/;"	f	class:CarrierWave
+negative_failure_message	lib/carrierwave/test/matchers.rb	/^        def negative_failure_message$/;"	f	class:CarrierWave.Test.Matchers.BeIdenticalTo
+negative_failure_message	lib/carrierwave/test/matchers.rb	/^        def negative_failure_message$/;"	f	class:CarrierWave.Test.Matchers.BeNoLargerThan
+negative_failure_message	lib/carrierwave/test/matchers.rb	/^        def negative_failure_message$/;"	f	class:CarrierWave.Test.Matchers.BeNoTallerThan
+negative_failure_message	lib/carrierwave/test/matchers.rb	/^        def negative_failure_message$/;"	f	class:CarrierWave.Test.Matchers.BeNoWiderThan
+negative_failure_message	lib/carrierwave/test/matchers.rb	/^        def negative_failure_message$/;"	f	class:CarrierWave.Test.Matchers.HaveDimensions
+negative_failure_message	lib/carrierwave/test/matchers.rb	/^        def negative_failure_message$/;"	f	class:CarrierWave.Test.Matchers.HavePermissions
+option	lib/carrierwave/mount.rb	/^      def option(name)$/;"	f	class:Mounter
+original_filename	lib/carrierwave/sanitized_file.rb	/^    def original_filename$/;"	f	class:CarrierWave
+original_filename	lib/carrierwave/uploader/download.rb	/^        def original_filename$/;"	f	class:CarrierWave.Uploader.Download.RemoteFile
+original_filename	spec/spec_helper.rb	/^        def t.original_filename; '#{fake_name || filename}'; end$/;"	F	class:CarrierWave.Test.MockFiles.stub_tempfile
+original_filename=	lib/carrierwave/uploader/cache.rb	/^      def original_filename=(filename)$/;"	f	class:CarrierWave.Uploader.Cache
+paperclip_default_style	lib/carrierwave/compatibility/paperclip.rb	/^      def paperclip_default_style$/;"	f	class:CarrierWave.Compatibility.Paperclip
+paperclip_path	lib/carrierwave/compatibility/paperclip.rb	/^      def paperclip_path$/;"	f	class:CarrierWave.Compatibility.Paperclip
+paperclip_style	lib/carrierwave/compatibility/paperclip.rb	/^      def paperclip_style$/;"	f	class:CarrierWave.Compatibility.Paperclip
+path	lib/carrierwave/sanitized_file.rb	/^    def path$/;"	f	class:CarrierWave
+path	lib/carrierwave/storage/cloud_files.rb	/^        def path$/;"	f	class:CarrierWave.Storage.CloudFiles.File
+path	lib/carrierwave/storage/s3.rb	/^        def path$/;"	f	class:CarrierWave.Storage.S3.File
+process	lib/carrierwave/uploader/processing.rb	/^        def process(*args)$/;"	f	class:CarrierWave.Uploader.Processing.ClassMethods
+process!	lib/carrierwave/uploader/processing.rb	/^      def process!(new_file=nil)$/;"	f	class:CarrierWave.Uploader.Processing
+process_uri	lib/carrierwave/uploader/download.rb	/^      def process_uri(uri)$/;"	f	class:CarrierWave.Uploader.Download
+process_uri	spec/uploader/download_spec.rb	/^        def process_uri(uri)$/;"	f
+public_path	spec/spec_helper.rb	/^def public_path( *paths )$/;"	f
+public_url	lib/carrierwave/storage/fog.rb	/^        def public_url$/;"	f	class:CarrierWave.Storage.Fog.File
+public_url	lib/carrierwave/storage/s3.rb	/^        def public_url$/;"	f	class:CarrierWave.Storage.S3.File
+read	lib/carrierwave/sanitized_file.rb	/^    def read$/;"	f	class:CarrierWave
+read	lib/carrierwave/storage/cloud_files.rb	/^        def read$/;"	f	class:CarrierWave.Storage.CloudFiles.File
+read	lib/carrierwave/storage/fog.rb	/^        def read$/;"	f	class:CarrierWave.Storage.Fog.File
+read	lib/carrierwave/storage/s3.rb	/^        def read$/;"	f	class:CarrierWave.Storage.S3.File
+read	lib/carrierwave/uploader/proxy.rb	/^      def read$/;"	f	class:CarrierWave.Uploader.Proxy
+read_uploader	lib/carrierwave/mount.rb	/^      def read_uploader(column); end$/;"	f	class:Extension
+recreate_versions!	lib/carrierwave/uploader/versions.rb	/^      def recreate_versions!$/;"	f	class:CarrierWave.Uploader
+recursively_apply_block_to_versions	lib/carrierwave/uploader/versions.rb	/^        def recursively_apply_block_to_versions(&block)$/;"	f	class:CarrierWave.Uploader.Versions
+remote_	lib/carrierwave/mount.rb	/^        def remote_#{column}_url$/;"	f
+remote_	lib/carrierwave/mount.rb	/^        def remote_#{column}_url=(url)$/;"	f
+remote_	lib/carrierwave/orm/activerecord.rb	/^        def remote_#{column}_url=(url)$/;"	f	class:CarrierWave.ActiveRecord
+remote_url=	lib/carrierwave/mount.rb	/^      def remote_url=(url)$/;"	f	class:Mounter
+remove!	lib/carrierwave/mount.rb	/^      def remove!$/;"	f	class:Mounter
+remove!	lib/carrierwave/uploader/remove.rb	/^      def remove!$/;"	f	class:CarrierWave.Uploader.Remove
+remove?	lib/carrierwave/mount.rb	/^      def remove?$/;"	f	class:Mounter
+remove_	lib/carrierwave/mount.rb	/^        def remove_#{column}!$/;"	f
+remove_	lib/carrierwave/mount.rb	/^        def remove_#{column}$/;"	f
+remove_	lib/carrierwave/mount.rb	/^        def remove_#{column}=(value)$/;"	f
+remove_	lib/carrierwave/mount.rb	/^        def remove_#{column}?$/;"	f
+remove_previously_stored_	lib/carrierwave/mount.rb	/^        def remove_previously_stored_#{column}$/;"	f
+remove_versions!	lib/carrierwave/uploader/versions.rb	/^      def remove_versions!$/;"	f	class:CarrierWave.Uploader
+reset_config	lib/carrierwave/uploader/configuration.rb	/^        def reset_config$/;"	f	class:CarrierWave
+resize_and_pad	lib/carrierwave/processing/mini_magick.rb	/^      def resize_and_pad(width, height, background=:transparent, gravity=::Magick::CenterGravity)$/;"	f	class:CarrierWave.MiniMagick.ClassMethods
+resize_and_pad	lib/carrierwave/processing/mini_magick.rb	/^    def resize_and_pad(width, height, background=:transparent, gravity='Center')$/;"	f	class:CarrierWave.MiniMagick
+resize_and_pad	lib/carrierwave/processing/rmagick.rb	/^      def resize_and_pad(width, height, background=:transparent, gravity=::Magick::CenterGravity)$/;"	f	class:CarrierWave.RMagick.ClassMethods
+resize_and_pad	lib/carrierwave/processing/rmagick.rb	/^    def resize_and_pad(width, height, background=:transparent, gravity=::Magick::CenterGravity)$/;"	f	class:CarrierWave.RMagick
+resize_to_fill	lib/carrierwave/processing/mini_magick.rb	/^      def resize_to_fill(width, height)$/;"	f	class:CarrierWave.MiniMagick.ClassMethods
+resize_to_fill	lib/carrierwave/processing/mini_magick.rb	/^    def resize_to_fill(width, height, gravity = 'Center')$/;"	f	class:CarrierWave.MiniMagick
+resize_to_fill	lib/carrierwave/processing/rmagick.rb	/^      def resize_to_fill(width, height, gravity=::Magick::CenterGravity)$/;"	f	class:CarrierWave.RMagick.ClassMethods
+resize_to_fill	lib/carrierwave/processing/rmagick.rb	/^    def resize_to_fill(width, height, gravity=::Magick::CenterGravity)$/;"	f	class:CarrierWave.RMagick
+resize_to_fit	lib/carrierwave/processing/mini_magick.rb	/^      def resize_to_fit(width, height)$/;"	f	class:CarrierWave.MiniMagick.ClassMethods
+resize_to_fit	lib/carrierwave/processing/mini_magick.rb	/^    def resize_to_fit(width, height)$/;"	f	class:CarrierWave.MiniMagick
+resize_to_fit	lib/carrierwave/processing/rmagick.rb	/^      def resize_to_fit(width, height)$/;"	f	class:CarrierWave.RMagick.ClassMethods
+resize_to_fit	lib/carrierwave/processing/rmagick.rb	/^    def resize_to_fit(width, height)$/;"	f	class:CarrierWave.RMagick
+resize_to_limit	lib/carrierwave/processing/mini_magick.rb	/^      def resize_to_limit(width, height)$/;"	f	class:CarrierWave.MiniMagick.ClassMethods
+resize_to_limit	lib/carrierwave/processing/mini_magick.rb	/^    def resize_to_limit(width, height)$/;"	f	class:CarrierWave.MiniMagick
+resize_to_limit	lib/carrierwave/processing/rmagick.rb	/^      def resize_to_limit(width, height)$/;"	f	class:CarrierWave.RMagick.ClassMethods
+resize_to_limit	lib/carrierwave/processing/rmagick.rb	/^    def resize_to_limit(width, height)$/;"	f	class:CarrierWave.RMagick
+respond_to?	lib/carrierwave/uploader/download.rb	/^        def respond_to?(*args)$/;"	f	class:CarrierWave.Uploader.Download.RemoteFile
+retrieve!	lib/carrierwave/storage/abstract.rb	/^      def retrieve!(identifier)$/;"	f	class:CarrierWave.Storage.Abstract
+retrieve!	lib/carrierwave/storage/cloud_files.rb	/^      def retrieve!(identifier)$/;"	f	class:CarrierWave.Storage.CloudFiles
+retrieve!	lib/carrierwave/storage/file.rb	/^      def retrieve!(identifier)$/;"	f	class:CarrierWave.Storage.File
+retrieve!	lib/carrierwave/storage/fog.rb	/^      def retrieve!(identifier)$/;"	f	class:CarrierWave.Storage.Fog
+retrieve!	lib/carrierwave/storage/s3.rb	/^      def retrieve!(identifier)$/;"	f	class:CarrierWave.Storage.S3
+retrieve_from_cache!	lib/carrierwave/uploader/cache.rb	/^      def retrieve_from_cache!(cache_name)$/;"	f	class:CarrierWave.Uploader.Cache
+retrieve_from_store!	lib/carrierwave/uploader/store.rb	/^      def retrieve_from_store!(identifier)$/;"	f	class:CarrierWave.Uploader.Store
+retrieve_versions_from_cache!	lib/carrierwave/uploader/versions.rb	/^      def retrieve_versions_from_cache!(cache_name)$/;"	f	class:CarrierWave.Uploader
+retrieve_versions_from_store!	lib/carrierwave/uploader/versions.rb	/^      def retrieve_versions_from_store!(identifier)$/;"	f	class:CarrierWave.Uploader
+reverse	features/step_definitions/general_steps.rb	/^    def reverse$/;"	f
+rotate	spec/uploader/versions_spec.rb	/^          def rotate$/;"	f
+sanitize	lib/carrierwave/sanitized_file.rb	/^    def sanitize(name)$/;"	f	class:CarrierWave
+sanitize_regexp	lib/carrierwave/sanitized_file.rb	/^      def sanitize_regexp$/;"	f	class:CarrierWave.SanitizedFile
+sanitize_regexp	lib/carrierwave/sanitized_file.rb	/^    def sanitize_regexp$/;"	f	class:CarrierWave
+serialization_column	lib/carrierwave/mount.rb	/^      def serialization_column$/;"	f	class:Mounter
+set_content_type	lib/carrierwave/processing/mime_types.rb	/^      def set_content_type(override=false)$/;"	f	class:CarrierWave.MimeTypes.ClassMethods
+set_content_type	lib/carrierwave/processing/mime_types.rb	/^    def set_content_type(override=false)$/;"	f	class:CarrierWave.MimeTypes
+size	lib/carrierwave/sanitized_file.rb	/^    def size$/;"	f	class:CarrierWave
+size	lib/carrierwave/storage/fog.rb	/^        def size$/;"	f	class:CarrierWave.Storage.Fog.File
+size	lib/carrierwave/storage/s3.rb	/^        def size$/;"	f	class:CarrierWave.Storage.S3.File
+size	lib/carrierwave/uploader/proxy.rb	/^      def size$/;"	f	class:CarrierWave.Uploader.Proxy
+split_extension	lib/carrierwave/sanitized_file.rb	/^    def split_extension(filename)$/;"	f	class:CarrierWave
+storage	lib/carrierwave/uploader/configuration.rb	/^        def storage(storage = nil)$/;"	f	class:CarrierWave.Uploader.Configuration.ClassMethods
+storage	lib/carrierwave/uploader/store.rb	/^      def storage$/;"	f	class:CarrierWave.Uploader.Store
+store	lib/carrierwave/storage/cloud_files.rb	/^        def store(data,headers={})$/;"	f	class:CarrierWave.Storage.CloudFiles.File
+store	lib/carrierwave/storage/fog.rb	/^        def store(new_file)$/;"	f	class:CarrierWave.Storage.Fog.File
+store	lib/carrierwave/storage/s3.rb	/^        def store(file)$/;"	f	class:CarrierWave.Storage.S3.File
+store!	lib/carrierwave/mount.rb	/^      def store!$/;"	f	class:Mounter
+store!	lib/carrierwave/storage/abstract.rb	/^      def store!(file)$/;"	f	class:CarrierWave.Storage.Abstract
+store!	lib/carrierwave/storage/cloud_files.rb	/^      def store!(file)$/;"	f	class:CarrierWave.Storage.CloudFiles
+store!	lib/carrierwave/storage/file.rb	/^      def store!(file)$/;"	f	class:CarrierWave.Storage.File
+store!	lib/carrierwave/storage/fog.rb	/^      def store!(file)$/;"	f	class:CarrierWave.Storage.Fog
+store!	lib/carrierwave/storage/s3.rb	/^      def store!(file)$/;"	f	class:CarrierWave.Storage.S3
+store!	lib/carrierwave/uploader/store.rb	/^      def store!(new_file=nil)$/;"	f	class:CarrierWave.Uploader.Store
+store_	lib/carrierwave/mount.rb	/^        def store_#{column}!$/;"	f
+store_dir	lib/carrierwave/compatibility/paperclip.rb	/^      def store_dir$/;"	f	class:CarrierWave.Compatibility.Paperclip
+store_dir	lib/generators/templates/uploader.rb	/^  def store_dir$/;"	f
+store_dir	spec/uploader/store_spec.rb	/^        def store_dir; nil; end$/;"	f
+store_dir	spec/uploader/versions_spec.rb	/^        def store_dir$/;"	f
+store_path	lib/carrierwave/compatibility/paperclip.rb	/^      def store_path(for_file=filename)$/;"	f	class:CarrierWave.Compatibility.Paperclip
+store_path	lib/carrierwave/uploader/store.rb	/^      def store_path(for_file=filename)$/;"	f	class:CarrierWave.Uploader.Store
+store_previous_model_for_	lib/carrierwave/mount.rb	/^        def store_previous_model_for_#{column}$/;"	f
+store_versions!	lib/carrierwave/uploader/versions.rb	/^      def store_versions!(new_file)$/;"	f	class:CarrierWave.Uploader
+stub_file	spec/spec_helper.rb	/^      def stub_file(filename, mime_type=nil, fake_name=nil)$/;"	f	class:CarrierWave.Test.MockFiles.stub_tempfile.original_filename
+stub_merb_tempfile	spec/spec_helper.rb	/^      def stub_merb_tempfile(filename)$/;"	f	class:CarrierWave.Test.MockFiles
+stub_stringio	spec/spec_helper.rb	/^      def stub_stringio(filename, mime_type=nil, fake_name=nil)$/;"	f	class:CarrierWave.Test.MockFiles.stub_tempfile.original_filename
+stub_tempfile	spec/spec_helper.rb	/^      def stub_tempfile(filename, mime_type=nil, fake_name=nil)$/;"	f	class:CarrierWave.Test.MockFiles
+to_file	lib/carrierwave/sanitized_file.rb	/^    def to_file$/;"	f	class:CarrierWave
+to_s	lib/carrierwave/uploader/url.rb	/^      def to_s$/;"	f	class:CarrierWave.Uploader.Url
+up	features/support/activerecord.rb	/^  def self.up$/;"	F	class:TestMigration
+up	spec/orm/activerecord_spec.rb	/^  def self.up$/;"	F	class:TestMigration
+uploader	lib/carrierwave/mount.rb	/^      def uploader$/;"	f	class:Mounter
+uploader_option	lib/carrierwave/mount.rb	/^    def uploader_option(column, option)$/;"	f	class:CarrierWave.Mount
+uploader_options	lib/carrierwave/mount.rb	/^    def uploader_options$/;"	f	class:CarrierWave.Mount
+uploaders	lib/carrierwave/mount.rb	/^    def uploaders$/;"	f	class:CarrierWave.Mount
+url	lib/carrierwave/mount.rb	/^      def url(*args)$/;"	f	class:Mounter
+url	lib/carrierwave/storage/cloud_files.rb	/^        def url$/;"	f	class:CarrierWave.Storage.CloudFiles.File
+url	lib/carrierwave/storage/fog.rb	/^        def url(options = {})$/;"	f	class:CarrierWave.Storage.Fog.File
+url	lib/carrierwave/storage/s3.rb	/^        def url(options = {})$/;"	f	class:CarrierWave.Storage.S3.File
+url	lib/carrierwave/uploader/default_url.rb	/^      def url(*args)$/;"	f	class:CarrierWave.Uploader.DefaultUrl
+url	lib/carrierwave/uploader/url.rb	/^      def url(options = {})$/;"	f	class:CarrierWave.Uploader.Url
+url	lib/carrierwave/uploader/versions.rb	/^      def url(*args)$/;"	f	class:CarrierWave.Uploader
+use_ssl?	lib/carrierwave/storage/s3.rb	/^        def use_ssl?$/;"	f	class:CarrierWave.Storage.S3.File
+validate_each	lib/carrierwave/validations/active_model.rb	/^        def validate_each(record, attribute, value)$/;"	f	class:CarrierWave.Validations.ActiveModel.IntegrityValidator
+validate_each	lib/carrierwave/validations/active_model.rb	/^        def validate_each(record, attribute, value)$/;"	f	class:CarrierWave.Validations.ActiveModel.ProcessingValidator
+validates_integrity_of	lib/carrierwave/validations/active_model.rb	/^        def validates_integrity_of(*attr_names)$/;"	f	class:CarrierWave.Validations.ActiveModel.HelperMethods
+validates_processing_of	lib/carrierwave/validations/active_model.rb	/^        def validates_processing_of(*attr_names)$/;"	f	class:CarrierWave.Validations.ActiveModel.HelperMethods
+version	lib/carrierwave/uploader/versions.rb	/^        def version(name, options = {}, &block)$/;"	f	class:CarrierWave.Uploader.Versions.ClassMethods
+version_name	lib/carrierwave/uploader/versions.rb	/^      def version_name$/;"	f	class:CarrierWave.Uploader
+versions	lib/carrierwave/uploader/versions.rb	/^      def versions$/;"	f	class:CarrierWave.Uploader
+width	lib/carrierwave/test/matchers.rb	/^        def width$/;"	f	class:CarrierWave.Test.Matchers.MagickWrapper
+width	lib/carrierwave/test/matchers.rb	/^        def width$/;"	f	class:CarrierWave.Test.Matchers.MiniMagickWrapper
+with_callbacks	lib/carrierwave/uploader/callbacks.rb	/^      def with_callbacks(kind, *args)$/;"	f	class:CarrierWave.Uploader.Callbacks
+write_	lib/carrierwave/mount.rb	/^        def write_#{column}_identifier$/;"	f
+write_identifier	lib/carrierwave/mount.rb	/^      def write_identifier$/;"	f	class:Mounter
+write_uploader	lib/carrierwave/mount.rb	/^      def write_uploader(column, identifier); end$/;"	f	class:Extension
